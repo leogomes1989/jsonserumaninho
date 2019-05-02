@@ -106,9 +106,29 @@
             "dataRetorno" : "",
             "observacaoRetorno" : ""
         },
+         {
+            "id" : 9,
+            "idCategoria": "3",
+            "idPaciente" : 1,
+            "dataAtendimento" : "11/05/2019",
+            "observacao" : "Vacina tipo 3",
+            "retorno" : "" ,
+            "dataRetorno" : "",
+            "observacaoRetorno" : ""
+        },
+        {
+            "id" : 10,
+            "idCategoria": "3",
+            "idPaciente" : 1,
+            "dataAtendimento" : "11/05/2019",
+            "observacao" : "Vacina tipo 4",
+            "retorno" : "" ,
+            "dataRetorno" : "",
+            "observacaoRetorno" : ""
+        },
         {
             "id" : 5,
-            "idCategoria": "3",
+            "idCategoria": "2",
             "idPaciente" : 1,
             "dataAtendimento" : "11/05/2019",
             "observacao" : "Vermifugo tipo 1",
@@ -118,10 +138,31 @@
         },
         {
             "id" : 6,
-            "idCategoria": "3",
+            "idCategoria": "2",
             "idPaciente" : 1,
             "dataAtendimento" : "11/05/2019",
             "observacao" : "Vermifugo tipo 2",
+            "retorno" : "" ,
+            "dataRetorno" : "",
+            "observacaoRetorno" : ""
+        }
+        ,
+        {
+            "id" : 7,
+            "idCategoria": "2",
+            "idPaciente" : 1,
+            "dataAtendimento" : "11/01/2019",
+            "observacao" : "Vermifugo tipo 3",
+            "retorno" : "" ,
+            "dataRetorno" : "",
+            "observacaoRetorno" : ""
+        },
+        {
+            "id" : 8,
+            "idCategoria": "2",
+            "idPaciente" : 1,
+            "dataAtendimento" : "11/06/2019",
+            "observacao" : "Vermifugo tipo 4",
             "retorno" : "" ,
             "dataRetorno" : "",
             "observacaoRetorno" : ""
